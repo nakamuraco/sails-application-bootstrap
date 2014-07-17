@@ -1,0 +1,45 @@
+.uk-navbar {
+	background:none;
+	border:none;
+}
+.uk-navbar-nav > li.uk-active > a {
+	border:none;
+	background: none;
+	box-shadow: none;
+}
+
+.uk-navbar-nav > li:hover > a,
+.uk-navbar-nav > li > a:focus,
+.uk-navbar-nav > li.uk-open > a {  
+  color: #444444;   
+  border:none;
+  box-shadow: none;
+}
+
+/* OnClick */
+.uk-navbar-nav > li > a:active {
+  background:none;
+  color: #444444;
+  border:none;
+  box-shadow: none;
+}
+/* Active */
+.uk-navbar-nav > li.uk-active > a {
+  background:none;
+  color: #444444;
+  border:none;
+  box-shadow: none;
+}
+
+.uk-navbar-nav > li > a {
+	font-family: 'pluto_sanscond_medium';
+}
+
+h1, h2, h3, h4, h5, h5 {
+	font-family: 'pluto_sanscond_medium';
+	
+}
+
+p {
+	font-family: 'pluto_sanscond_light';
+}
